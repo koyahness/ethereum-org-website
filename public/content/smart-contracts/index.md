@@ -33,7 +33,7 @@ This silly example illustrates the problem with any non-smart agreement. Even if
 
 ## A digital vending machine {#vending-machine}
 
-A simple metaphor for a smart contract is a vending machine, which works somewhat similarly to a smart contract - specific inputs guarantee predetermined outputs.
+A simple metaphor for a smart contract is a vending machine, which works somewhat similarly to a smart contract where specific inputs guarantee predetermined outputs.
 
 - You select a product
 - The vending machine displays the price
