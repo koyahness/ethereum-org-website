@@ -35,7 +35,7 @@
   "page-wallets-protecting-yourself": "Protecting yourself and your funds",
   "page-wallets-seed-phrase": "Write down your <a href=\"/glossary/#recovery-phrase\">recovery phrase</a>",
   "page-wallets-seed-phrase-desc": "Wallets will often give you a seed phrase that you must write down somewhere safe. This is the only way you’ll be able to recover your wallet.",
-  "page-wallets-seed-phrase-example": "Here's an example:",
+  "page-wallets-seed-phrase-example": "Here's an example of a 12-word seedphrase:",
   "page-wallets-seed-phrase-snippet": "there aeroplane curve vent formation doge possible product distinct under spirit lamp",
   "page-wallets-seed-phrase-write-down": "Don’t store it on a computer. Write it down and keep it safe.",
   "page-wallets-slogan": "Holding the keys to your digital future",
